@@ -1,0 +1,15 @@
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\ReGex_UserRegistration\obj\Debug\net6.0\ReGex_UserRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\ReGex_UserRegistration\obj\Debug\net6.0\ReGex_UserRegistration.AssemblyInfoInputs.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\ReGex_UserRegistration\obj\Debug\net6.0\ReGex_UserRegistration.AssemblyInfo.cs
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\ReGex_UserRegistration\obj\Debug\net6.0\ReGex_UserRegistration.csproj.CoreCompileInputs.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\ReGex_UserRegistration\bin\Debug\net6.0\ReGex_UserRegistration.exe
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\ReGex_UserRegistration\bin\Debug\net6.0\ReGex_UserRegistration.deps.json
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\ReGex_UserRegistration\bin\Debug\net6.0\ReGex_UserRegistration.runtimeconfig.json
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\ReGex_UserRegistration\bin\Debug\net6.0\ReGex_UserRegistration.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\ReGex_UserRegistration\bin\Debug\net6.0\ref\ReGex_UserRegistration.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\ReGex_UserRegistration\bin\Debug\net6.0\ReGex_UserRegistration.pdb
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\ReGex_UserRegistration\obj\Debug\net6.0\ReGex_UserRegistration.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\ReGex_UserRegistration\obj\Debug\net6.0\ref\ReGex_UserRegistration.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\ReGex_UserRegistration\obj\Debug\net6.0\ReGex_UserRegistration.pdb
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\ReGex_UserRegistration\obj\Debug\net6.0\ReGex_UserRegistration.genruntimeconfig.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\ReGex_UserRegistration\obj\Debug\net6.0\ReGex_UserRegistration.csproj.AssemblyReference.cache
